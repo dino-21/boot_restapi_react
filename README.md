@@ -11,7 +11,7 @@ http://localhost:8080/api/boards/2
 
 http://localhost:8080/api/boards/2
 
-![9](https://github.com/user-attachments/assets/21e21fa6-2593-41d6-a554-d126fdb2cf63)
+![10](https://github.com/user-attachments/assets/d692b0d0-e861-43cb-a4ff-8b18d5744736)
 
 
 ![18](https://github.com/user-attachments/assets/0ecc875d-cde7-4eea-a8c6-b2253e966c3e)
